@@ -15,7 +15,7 @@ Susu itu **cairan(liquid, cair - an, cair means liquid-like)**, minuman yang war
 Madu, Madu itu cairan, minuman yang diambil dari _lebah(the e here is pronounced schwa)_. Madu itu warnanya kuning **kecokelatan(brownish)**. Rasanya manis, ada juga yang sedikit asam atau _pahit_. Madu itu sehat kalau yang tidak dicampur gula. Madu **asli(pure, original)** berasal dari lebah, kalau sudah **dicampur(mixed)** gula tidak asli _lagi(anymore، compare 再)_. Di indonesia ada banyak madu yang dicampur gula. Jadi sulit **membedakan(differentiate)** mana yang alis mana yang tidak.  
 Susu telur madu jahe.
 
-Jahe itu _tumbuhan_(plant), yang sering dipakai _jadi_(as, 作) **bumbu(spice)** masakan di indonesia, bisa juga dijadikan _obat_. jahe rasanya _pedas_ dan hangat, kalau kita merasa dingin, atau mau _masuk angin_(wind). Jahe itu bisa membuat **tubuh(more scientific)** kita jadi hangat.
+Jahe itu _tumbuhan_(plant), yang sering dipakai _jadi_(as, 作) **bumbu(spice)** masakan di indonesia, bisa juga dijadikan _obat_. jahe rasanya _agakpedas_ dan hangat, kalau kita merasa dingin, atau mau _masuk angin_(wind). Jahe itu bisa membuat **tubuh(more scientific)** kita jadi hangat.
 
 Nah, jadi STMJ itu **cocok(suitable)** diminum waktu cuaca dingin. _Contohnya_, musim hujan seperti di indonesia _sekarang_. Ngomong-ngomong **soal(regarding, problem)** hujan, karena dua minggu terakhir hujan **deras(heavey, of rate of flow)** _terus_ Jakarta jadi banjir. Banyak _daerah_ di Jakarta, yang tidak bisa dilewati karena banjirnya tinggi. Untuk tiga hari ke depan(next), sekolah tempat ku-mengajar harus _menjalankan_ _pembelajaran_ **daring**(_Dalam Jaringan_) (online).
 
