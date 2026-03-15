@@ -1,0 +1,43 @@
+## Kelas 3
+
+- bekerja vs belajar
+- suara anjing = dog's voice
+- menjadi kecil = become small
+- terjadi = 发生 / menjadi = 变成
+- garing = crispy
+- mi instan kuah / indomie kuah
+- topik 主题
+- sebagai sarapan = as breakfast
+- lebih berair = more watery
+- bermacam-macam = various
+- cabe 辣椒 / pedas 辣
+- mereka 他们
+- lebih suka = prefer
+- pedas sekali / sangat pedas / paling pedas / terpedas
+- yang paling terkenal = the most famous
+- tidak sepedas = not as spicy as (se- = as...as)
+- telur asin / telur pitan
+- sayur asin = pickled vegetables
+- berasal dari = originate from
+- pedas kebas / pedas cabe / pedas merica (different types of spiciness)
+  - pedas merica putih / hitam
+- lembek vs garing = soft vs crispy
+- berair vs kental = watery vs thick
+- biskuit 饼干
+- hijau = ijo = 绿色
+- mantap banget 非常棒
+- sangat / sekali / banget = very (three ways)
+- rasa = taste / merasa 感觉 / terasa = felt (passive)
+- dimakan (passive) / termakan (accidental passive)
+- masih = 还 / masih ada = 还有
+- lebih mendekati kehidupan sehari-hari = closer to daily life
+- se- = one (seorang, sebuah buku, seseorang)
+- supaya, selain, sambil, walaupun, apalagi, belum lagi (conjunctions)
+- saja = aja = just/only
+- stand up komedi
+- biji kopi = coffee bean / kacang tanah = peanut
+- aceh / medan = tempat wisata
+- terbang 飞
+- cek 查看
+- orang tionghoa = Chinese people
+- harimau sumatera = Sumatran tiger

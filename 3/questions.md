@@ -2,8 +2,25 @@
 
 - ijo vs hijau, kacang ijo
 - 叠词的逻辑
+  - telur / telur
 - lagi / juga / pun
-- mantap banget 谁修饰谁
+- mantap banget 谁修饰谁：mantap 棒， banget 非常
+  - sangat
+  - sekali
+  - banget
 - aduk vs campur
-- sih 的含义： Katanya sih
+- sih 的含义： Katanya sih（有点像呢）
 - terasa: Jadi tetap terasa garingnya.
+  - me- active
+  - di- passive，有意的
+  - ter- 无意的
+  - made of 一定是 ter，dibuat
+- masih: biasanya selain (besides) daging ayam masih ada（还有，还） bawang-bawangan (various onions/alliums), kacang goreng dan juga cakue.
+- jero vs dalam
+  - 基本只有 jeroan
+- se-
+  - as
+  - satu
+  - sehari-hari 平常
+  - 量词在书面语里多
+- biji kopi
