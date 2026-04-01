@@ -1,0 +1,2 @@
+- ngobrol vs obrol, ngobrol 是不是 mengobrol 的缩略形式
+-
