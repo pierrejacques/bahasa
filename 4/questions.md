@@ -1,2 +1,31 @@
 - ngobrol vs obrol, ngobrol 是不是 mengobrol 的缩略形式
--
+- terkadang vs kadang vs kadang-kadang
+- terasa vs merasa
+  - terasa：
+  - merasa：
+- enak vs sehat 好看
+- berkata vs berbicara vs bilang vs sebut
+  - bicara：对话，talk
+  - kata / bilang：说，bilang 口语
+  - sebut 提起，称为
+- sore / siang / malam / pagi / petang
+  - siang 中午
+  - sore 2-5/6 还没下山
+  - malam 晚
+  - petang 傍晚
+- kena 的用法
+- suatu vs hal / sesuatu
+- nyeri
+- takkan = tidak akan
+- Sexxx-xxxnya = 再xxx，也xxx
+- pandai = pintar
+- teringat / mengingat
+- terdiri
+- dia giat bekerja
+- pe- -an 过程
+- ke- -an 抽象
+- -an 名词
+- buang angin：放屁打嗝，buang 丢
+- kena 一般不好，遭遇，marah
+- sentuh = touch 中性，摸
+- untuk diri kita sendiri

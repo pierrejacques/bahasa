@@ -18,6 +18,24 @@ Kata angin juga berarti _(means, arti: meaning)_ sesuatu yang sia-sia _(in vain 
 
 Kalau sudah berhasil, sudah di atas angin _(on top of the wind = in an advantageous position)_, hati-hati jangan _(don't)_ merasa _(feel, rasa: feel)_ di atas angin terus. Sepandai-pandainya _(no matter how clever, pandai: clever)_ tupai _(squirrel 松鼠)_ melompat _(jump, lompat: jump)_, pasti _(surely)_ akan jatuh _(fall)_ juga. Kehidupan _(life, hidup: live)_ selalu _(always)_ naik turun _(ups and downs, naik: rise, turun: fall)_, terkadang _(sometimes)_ walaupun _(even though)_ kita sudah berusaha masih _(still)_ bisa gagal _(fail 失败)_ juga. Kalau jatuh atau gagal tanpa sebab _(cause 原因)_ yang jelas, banyak orang menyebutnya _(call it, sebut: call)_ nasib _(fate 命运)_. Kalau sudah nasib buruk _(bad 坏)_, ya nggak bisa diubah _(changed, ubah: change)_. Tapi ada juga orang yang percaya, kalau tak _(not)_ ada angin, takkan _(will not)_ pohon _(tree)_ bergoyang _(sway, goyang: shake)_. Kalau tidak ada sebab, tidak akan terjadi _(happen, jadi: become)_ sesuatu. Semua yang terjadi pasti ada sebabnya. Apa sebabnya, mungkin terkadang kita tidak tahu _(know)_. Aku percaya, semua yang kita alami _(experience, alam: nature/experience)_ pasti akan membawa _(bring, bawa: carry)_ kebaikan _(goodness, baik: good)_, baik itu untuk diri _(self)_ kita sendiri _(own)_, maupun _(as well as 以及)_ untuk orang lain _(others, lain: other)_.
 
+## Kiasan & Idiom dengan "Angin" (Phrases & Idioms with "Angin")
+
+| Phrase                                | Meaning      |
+| ------------------------------------- | ------------ |
+| angin sepoi-sepoi                     | 微风         |
+| cari angin                            | 出去透透气   |
+| angin malam                           | 夜风         |
+| masuk angin                           | 着凉/感冒    |
+| buang angin                           | 放屁         |
+| angin duduk                           | 心绞痛       |
+| angin-anginan                         | 善变         |
+| kabar angin                           | 谣言/传闻    |
+| angin lalu                            | 不值一提的事 |
+| menunggu angin                        | 白等         |
+| mengejar angin                        | 徒劳         |
+| di atas angin                         | 占上风       |
+| tak ada angin, takkan pohon bergoyang | 无风不起浪   |
+
 ## Cuaca & Sensasi (Weather & Sensation)
 
 | Word        | Meaning                              |
@@ -31,66 +49,66 @@ Kalau sudah berhasil, sudah di atas angin _(on top of the wind = in an advantage
 
 ## Tubuh & Kesehatan (Body & Health)
 
-| Word        | Meaning                                  |
-| ----------- | ---------------------------------------- |
-| kena        | get hit by, exposed to 被...到           |
-| buang angin | pass gas 放屁                            |
-| kentut      | fart 放屁                                |
-| penyakit    | disease, illness (sakit: sick)           |
-| parah       | severe, serious 严重                     |
-| dada        | chest 胸                                 |
-| terasa      | be felt (rasa: feel)                     |
-| nyeri       | pain, aching 疼痛                        |
-| aliran      | flow, stream (alir: flow)               |
-| bermasalah  | problematic (masalah: problem)           |
-| disebabkan  | caused by (sebab: cause)                 |
+| Word        | Meaning                        |
+| ----------- | ------------------------------ |
+| kena        | get hit by, exposed to 被...到 |
+| buang angin | pass gas 放屁                  |
+| kentut      | fart 放屁                      |
+| penyakit    | disease, illness (sakit: sick) |
+| parah       | severe, serious 严重           |
+| dada        | chest 胸                       |
+| terasa      | be felt (rasa: feel)           |
+| nyeri       | pain, aching 疼痛              |
+| aliran      | flow, stream (alir: flow)      |
+| bermasalah  | problematic (masalah: problem) |
+| disebabkan  | caused by (sebab: cause)       |
 
 ## Sifat & Perilaku (Character & Behavior)
 
-| Word           | Meaning                                      |
-| -------------- | -------------------------------------------- |
-| angin-anginan  | moody, fickle 善变                            |
-| sifat          | character, nature 性格                        |
-| suasana (hati) | atmosphere, mood 气氛/心情                    |
-| cuek           | indifferent, aloof 冷漠                       |
-| peduli         | care 关心                                     |
-| sekitarnya     | surroundings (sekitar: around)               |
-| nasib          | fate, destiny 命运                            |
-| buruk          | bad 坏                                        |
-| gagal          | fail 失败                                     |
-| kebaikan       | goodness, kindness (baik: good)              |
-| diri           | self 自身                                     |
+| Word           | Meaning                         |
+| -------------- | ------------------------------- |
+| angin-anginan  | moody, fickle 善变              |
+| sifat          | character, nature 性格          |
+| suasana (hati) | atmosphere, mood 气氛/心情      |
+| cuek           | indifferent, aloof 冷漠         |
+| peduli         | care 关心                       |
+| sekitarnya     | surroundings (sekitar: around)  |
+| nasib          | fate, destiny 命运              |
+| buruk          | bad 坏                          |
+| gagal          | fail 失败                       |
+| kebaikan       | goodness, kindness (baik: good) |
+| diri           | self 自身                       |
 
 ## Aktivitas & Kata Kerja (Activities & Verbs)
 
-| Word          | Meaning                                    |
-| ------------- | ------------------------------------------ |
-| kegiatan      | activity (giat: active/diligent)           |
-| sebentar      | a moment 一会儿                            |
-| jalan-jalan   | stroll, take a walk 散步                   |
-| menghilangkan | eliminate, get rid of (hilang: disappear)  |
-| tekanan       | pressure, stress (tekan: press)            |
-| basa-basi     | small talk, pleasantries 寒暄              |
-| mengejar      | chase (kejar: chase)                       |
-| melompat      | jump (lompat: jump)                        |
-| bergoyang     | sway, shake (goyang: shake)                |
+| Word          | Meaning                                   |
+| ------------- | ----------------------------------------- |
+| kegiatan      | activity (giat: active/diligent)          |
+| sebentar      | a moment 一会儿                           |
+| jalan-jalan   | stroll, take a walk 散步                  |
+| menghilangkan | eliminate, get rid of (hilang: disappear) |
+| tekanan       | pressure, stress (tekan: press)           |
+| basa-basi     | small talk, pleasantries 寒暄             |
+| mengejar      | chase (kejar: chase)                      |
+| melompat      | jump (lompat: jump)                       |
+| bergoyang     | sway, shake (goyang: shake)               |
 
 ## Kata Bantu & Lainnya (Function Words & Others)
 
-| Word               | Meaning                                  |
-| ------------------ | ---------------------------------------- |
-| sesuatu            | something                                |
-| kadang             | sometimes                                |
-| misalnya           | for example (misal: example)             |
-| berarti            | mean (arti: meaning)                     |
-| sia-sia            | in vain, futile 徒劳                     |
-| sebab              | cause, reason 原因                       |
-| percaya            | believe, trust                           |
-| begitu             | just like that, so 就那样                |
-| gosip              | gossip 八卦                               |
-| kehidupan          | life (hidup: live)                       |
-| terkadang          | sometimes (= kadang)                     |
-| walaupun           | even though                              |
-| maupun             | as well as 以及                          |
-| sepandai-pandainya | no matter how clever (pandai: clever)    |
-| tupai              | squirrel 松鼠                             |
+| Word               | Meaning                               |
+| ------------------ | ------------------------------------- |
+| sesuatu            | something                             |
+| kadang             | sometimes                             |
+| misalnya           | for example (misal: example)          |
+| berarti            | mean (arti: meaning)                  |
+| sia-sia            | in vain, futile 徒劳                  |
+| sebab              | cause, reason 原因                    |
+| percaya            | believe, trust                        |
+| begitu             | just like that, so 就那样             |
+| gosip              | gossip 八卦                           |
+| kehidupan          | life (hidup: live)                    |
+| terkadang          | sometimes (= kadang)                  |
+| walaupun           | even though                           |
+| maupun             | as well as 以及                       |
+| sepandai-pandainya | no matter how clever (pandai: clever) |
+| tupai              | squirrel 松鼠                         |
