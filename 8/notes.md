@@ -1,0 +1,51 @@
+- lambat / larut
+- lulus
+- berahkir
+- sibuk / malas
+- setiap hari
+- generasi keempat
+- bahasa yang dia pakai di rumah
+- contohnya
+- misalnya
+- 比如说
+- perayaan
+- tinggal bersama a
+- pernikahan
+- restu
+- kemerdekaan
+- demo = protes
+- terbakar
+- awal bulan ini
+- tempat wisata
+- gunung bromo
+- kamu ada saran tempat lain?
+- kamu menyarankan tempat apa?
+- labuan bajo
+- komodo
+- kapal
+- semarang
+- semeru
+- lebih banyak bdaya
+- saya mau merasakan budaya lokal indonesia
+- sangat ramah
+- pantai
+- hutan
+- uluwatu
+- tari kecak bali
+- monyet
+- monkey forest
+- desa wisata panglipuran
+- di luar ruangan
+- GWK
+- garuda wisnu kencana
+- sewa mobil
+- supir
+- dalam kota
+- pemandu dan penerjemah
+- setuju -- persetujuan
+- saya cari tahu tempat wisata di bali, supaya saya tahu mau ke mana
+- saya makan obat supaya cepat sembuh
+- Mata pencaharian
+- SMA sekolah menengah atas
+- pertama
+- tadi

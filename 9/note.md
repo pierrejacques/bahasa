@@ -1,0 +1,125 @@
+- berkaitan dengan vs terkait dengan
+  - 一样
+- jalan-jalan 可以表示旅游可以表示 jalan 的复数
+- Kalau 的意思，有点不像一般认为的 if
+  - 当
+  - kalau kamu? 表示 and you
+  - jika 比较书面
+- persis：precise
+  - persis banget warnanya dengan: 这里的 banget
+- inilah: Bendera merah putih inilah yang dijadikan lambang gerakan nasionalis di masa penjajahan sebelum Indonesia merdeka
+- gerakan
+  - bergerak
+- ternyata
+  - ternyata tidak：原来
+- cari tahu
+- masing-masing 每个
+- 题外：binatang vs hewan
+  - binatang peliharaan
+- tetap 例句
+  - tapi masing-masing tetap punya sejarah yang berbeda-beda
+  - 仍然，Hari ini demo, tetap saya bekerja
+- nusa：岛 vs pulau
+  - nusantara
+  - nusa 强调国土
+  - vs tanah (earth)
+  - vs bangsa
+  - vs suku
+  - negeri / negara
+- masa 最通用：时代（小时候 masa kecil / 过去 masa lalu / 未来 masa depan）
+  - vs jaman (zaman) (jaman 90, jaman 80)
+  - vs era
+  - vs periode
+  - vs abad 世纪
+- jauh sebelum
+  - lama sebelum 不可以
+- pernah ada xxx 有过xxx
+- bahwa 省略？
+- robek 撕裂
+- kata 的含义 dalam：Warna biru di bendera Belanda katanya melambangkan keadilan
+- 为什么 tidak punya keadilan
+- sepenuhnya
+- memang vs tentu vs yakin
+  - memang (indeed)
+  - tentu (of course)
+  - yakin (sure)
+- peristiwa (很书面，历史事件) vs kejadian（小事）
+  - insiden
+- melawan
+  - pertahanan 防御
+  - pembelaan
+- yang 针对哪个词：orang Indonesia melawan orang Belanda yang memasang bendera Belanda dengan cara merobek warna birunya.
+- mula 开端
+  - mulai
+- keliru （误以为，误解）
+  - vs salah
+  - opp. tepat
+  - 其他表示合适，匹配的词：sesuai / cocok / pas
+- Angka 350 ini agak dilebih-lebihkan
+  - angka vs nomor vs hitung: 数字 vs 号码 vs 计算/数
+  - lebihkan / berlebihkan? / berlebih-lebihkan / berkelebihkan?
+- sumber: 来源，（from javanese 泉水/井水）
+- tergantung：depend
+  - gantung 挂
+- ilmu vs pengetahuan：学科 vs 知识？
+- 短句：Benar-benar pernah terjadi, atau yakin tidak pernah terjadi.
+- 史政相关 jajah / kejajahan / kesatuan / bersatu / merdeka / kemerdekaan / lambang
+
+题外
+
+- tip di indonesia
+- demo di indonesia
+
+- alasan utama koropsi / koroptor
+- sita aset
+
+- program berhenti
+- makan bergizi
+
+课堂
+
+- mau banyak latihan
+- hari kemerdekaan
+- kapan?
+- korupsi
+- alasan utama
+- mereka mau koruptor dihukum mati
+- sita aset
+- program pemerintah
+- berhenti
+- makan bergizi gratis
+- 免费营养餐
+- menghabiskan banyak uang
+- orang yang makan keracunan
+- racun 毒
+- jakarta pusat
+- pusat jakarta
+- kalau bisa tidak perlu keluar rumah
+- berkaitan = 关于
+- tentang
+- film ini terkait dengan sejarah indonesia
+- kalau kamu?
+- (书面） jika vs kalau （口语）
+- 吴语
+- 爱情神话
+- 繁花
+- sinetron
+- konten
+- 海上花列传
+- masing-masing
+- di sini ada 10 buku, masing-masing ambil 5 buku
+- ikn
+- ibu kota nusantara
+- ibu kota = capital city
+- dalam negeri atau luar negeri juga?
+- tanah air
+- periode
+- masa - jaman
+- masa kecil
+- masa depan
+- masa lalu
+- hari ini demo
+- tapi saya tetap kerja
+- tentu saja
+- tidak yakin
+- insiden
