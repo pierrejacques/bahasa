@@ -30,11 +30,12 @@
 - Nah, selanjutnya* yang paling seru*, soal pernikahan
 - ? kalau bisa
 - supaya lebih mudah mendapatkan restu\*
-- mendapatkan persetujuan\* _? compare_ setujuan
+- mendapatkan persetujuan\* _? compare_ setujuan. 一样的
 - persamaan / perbedaan
 - Ada juga orang yang berpikir cinta itu seharusnya\* tidak dibatasi\* suku\* dan agama.
 - pendapat pribadimu
 - ceritakan\*
+- padahal
 
 ### Pertanyaan
 
