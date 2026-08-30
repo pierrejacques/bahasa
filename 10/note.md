@@ -1,0 +1,96 @@
+# Brief
+
+- Seluruh Indonesia mengalami bencana, yang paring parah di Kalimantan
+- Karhutla, singatan dari Kebakaran hutan dan lahan
+- terutama di pertengahan tahun, kali ini lebih besar
+- Asap juga sampai di negara tetengga
+- asap ini mengancam, berbahaya, irange yang terkena infeksi saluran pernapasan, terutama paru paru
+- satwa liar, sebagai orang hutan
+- kalimantan itu paru paru dunia, salah satu yang terluas, dampak kebakaran ini bukan untuk masyarakat indonesia saja
+- pulau Sumatera, Papua, Lombok juga banyak yang mengalami kebakaran
+- perbincangan tentang apakah semua kebakaran ini benar-benar bencana alam, atau akibat perbuatan manusia
+- kebakaran atau dibakar
+- Saran tonton film dokumenter Pesta Babi, tentang peralihan hutan menjadi lahan kebun di Papua
+- mengalami kekurangan bahan makanan, air bersih
+
+# Kata baru & Pertanyaan
+
+- seluruh
+  - semua
+  - seluru xxx
+  - setiap
+  - masing-masing
+  - beberapa
+  - seseorang
+  - sesuatu
+  - suatu
+  - tertentu
+  - saling
+- bencana
+- gempa bumi
+- Lahan
+  - 土地
+- Karhutla
+- Namun
+  - tapi
+- skala: scale
+- asap tebal: 浓烟
+- bahkan 甚至
+- tetangga
+  - negara tetangga
+- mengancam
+  - ancam
+- infeksi: infection
+- saluran pernapasan
+  - bernapas
+  - terowongan
+- salah satu
+- keberadaan
+- satwa liar
+  - satwa：比较书面
+  - binatang
+  - hewan
+  - binatang peliharaan
+  - anabul
+- dampak
+  - 可以是正面的，便书面
+  - pengaruh
+  - akibat 导致
+- benar-benar
+- perbincangan
+  - percakapan
+- bencana alam
+- akibat perbuatan manusia
+  - apakah semua kebakaran ini benar-benar bencana alam, atau akibat perbuatan manusia?
+  - apakah kebakaran ini hanya karena perubahan iklim, atau ada kesengajaan dari pihak tertentu?
+  - pihak tertentu 一伙
+- memang sedang ramai dengan xxx
+  - memang: e
+  - ramai：热闹，不能说人，说氛围
+  - sibuk：忙碌
+- peralihan fungsi hutan
+  - peralihan：transition，书面
+  - perubahan
+- kebun sawit
+  - kebun：garden
+  - kebun teh
+  - 梯田：sawah
+- pisah
+  - dipisahkan
+  - memisahkan?
+  - tidak bisa dipisahkan dan saling（互相） berkaitan.
+- kehidupan masyarakat adat
+  - adat
+- pedalaman
+  - masyarakat pedalaman
+  - Papua
+- kebutuhan
+- obat
+  - ubud
+- tautan
+- keterangan
+- kebutuhan medis
+- bahan
+  - bahan makanan
+  - barang
+  - benda
