@@ -1,0 +1,115 @@
+# Brief
+
+- beberapa tahun terakhir ini orang suka lagu galau, lagu sedih, tahun ini 2026, musik centil kembali terkenal
+- cantil hanya bisa digunakan untuk pereumpuan
+- irama cepat, ikut-ikutan goyang
+- centil pernah terkenal di tahun 2000-an, waktu windah masih SD
+- terkenal Nayklah
+- nona, honk
+- angkot budaya
+
+# Kata baru & Pertanyaan
+
+- suka lagu galau
+- cantil
+- perilaku yang cekwek
+- cangpuran imut dan juga seksi
+- sifat yang _menggoda_, sifat yang _genit_
+- dewasa, kekanak-kanakan
+- feminim yang lemah lembut
+  - lemah lembut
+- PD dan semangat ?
+  - percaya diri
+- membayangkan?
+  - bisa membayangkan musik centil itu yang seperti apa?
+- irama: rythmn
+- pengen ikut-ikutan goyang
+  - pengen: ingin / mau
+  - goyang: shake
+- SD
+  - SMA
+  - SMP
+  - sekolah dasar
+- Cinta Laura
+- gabungan hip-hop dengan dangdut Indonesia yang jedag-jedug
+  - dangdut: gaya
+  - jedag-jedug
+- jadilah aliran baru yang namanya “hip-dut”, hip-hop dangdut
+- My Mine Gueh, Maksudnya, Kamu
+  - Maksudnya
+  - arti
+- diputar
+- cewek
+- Pakai baju pasar, aku masih sabi
+- gaya: style
+- unik: unique
+- dandanan dan cara pakaian
+  - dandanan: makeup
+- terlalu alay dan terlalu berlebihan
+  - alay
+- mbak
+- sopan
+- kendataan umum
+  - angkot
+- mengenalkan
+- meme
+- Om Telolet Om
+
+## Chat
+
+- bagaimana hari kamu kemarin?
+- wings of dread
+- kungfu soccer
+- tidak selalu
+- akhir-akhiri ini
+- tidak layak ditonton
+- berapa uang
+- biaya
+- secara visual
+- cerita
+- 梗
+- banyak candaan
+- sebuah lelucon
+- jarang ditemukan
+- genit
+- bukan feminim
+- lemah lembut
+- percaya diri = pd
+- 自信
+- semangat 精神
+- 加油
+- mau- ingin - pingin - pengen
+- tidak pakai itu lagi
+- sekolah dasar
+- smp
+- pertama
+- jenis lagu
+- jedag jedug
+- gue
+- I me mine
+- musik video korea
+- klakson mobil , bus
+- cukup menarik
+- angkuktan kota
+- KAI
+- kkaca
+- kaca
+- lihat langit dengan jelas
+- langit-langit 天花板
+- transparan
+- terbuat dari kaca
+- enam ratus
+- tidak ada penerbangan langsung
+- dari surabaya ke jogja
+- naik mobil sendiri
+- tradisional
+- dekat dengan
+- terlalu banyak karbohidrat
+- total populasi
+- jumlah
+- diabetes
+- hambar
+- teh tawar
+- berasa
+- campur sambal
+- meme

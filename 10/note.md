@@ -94,3 +94,65 @@
   - bahan makanan
   - barang
   - benda
+
+## Chat
+
+- tidur jam berapa
+- untuk bangun pagi
+- kamu tidur berapa jam? -- 6 jam
+- jam berapa? --- jam 12
+- pukul berapa ? pukul ...
+- te-tangga
+- brunei
+- pernapasan
+- satwa liar
+- terpengaruh
+- perbincangan
+- percakapan
+- perubahan iklim
+- perbuatan manusia
+- kebakaran atau dibakar
+- kebutuhan medis
+- sedikit sulit
+- lebih pendek
+- semua vs seluruh
+- pihak
+- suatu pihak
+- Dia sedang memikirkan sesuatu di kamar.
+- Ibu memasak sesuatu yang enak hari ini.
+- suatu hari
+- suatu barang
+- barang tertentu
+- hari tertentu
+- suatu tempat
+- suatu desa
+- lahan 土地
+- cukup sering
+- lihat peta
+- ancam -- mengancam
+- terowongan = tunnel
+- ada --- berada -- keberadaan
+- binatang peliharaan
+- pelihara -- 养
+- anabul
+- anak bulu
+- dampak negatif
+- dampak positif
+- pengaruh
+- ilam
+- ilmu
+- ilmu pengetahuan alam
+- percakapan
+- akibat
+- akibat tidak tidur
+- maaf, saya tidak sengaja
+- merayakan 庆祝
+- banyak orang merayakan hari raya
+- kebun sawit = palm oil plantation
+- kelapa sawit
+- sawah
+- pisah
+- adat
+- Masyarakat adat Baduy
+- konghucu
+- hindu
