@@ -1,0 +1,117 @@
+## Brief
+
+- dalam / dalem, berartinya jauh di bawah, Contoh kalimatnya: adiknya jatuh dari sepeda, kakinya ada luka yang dalam, langsung di membawa ke doktor
+- juga berarti bukan di luar, contohnya di dalam rumah
+- pedalaman, jaul dari kota dan pantai, suatu dewa yang kecil, susah dapat sinyal internet atau bahkan tidak ada listrik
+- orang dalam, orang yang ada di dalam suatu lingkungan, makna negatif, punya koneksi yang dipakai untuk mendapatkan sesuatu, seperti pekerjaan di sesuatu perusahaan, diterima di universitas yang ternama, di masyarakat indonesia punya ordal sangat penting
+- pakaian dalam, dipakai di dalam baju, dalaman. Celana dalam, CD.
+- digunakan untuk perasaan: cinta yang dalam, kesedihan yang dalam.
+- digunakan untuk pikiran: ilmu pengetahuan, memperdalam / mendalami suatu ilmu susah.
+- air beriak tanda tak dalam(半瓶水晃荡): orang yang banyak berbicara banyak suara tapi ilmunya tidak dalam
+- air yang dalam: menyimpan banyak pengetahuan
+- musuh dalam selimut: selimut itu dipakai untuk menlindungi tubuh kita, perbahasa berarti musuh yang ada di dalam kenyamanan, di dalam lingkungan yang kita pikir aman
+- membeli kucing dalam karung: sepert membeli barang tapi tidak tahu apa isinya, seperti
+- Dalam laut boleh diduga, dalam hati siapa yang tahu?
+
+## Kata baru & Pertanyaan
+
+- 稍早一些怎么说
+  - lebih lama 或者 dulu
+  - terlebih dahulu 是什么意思，先 in advance
+  - dulu 先
+  - makan dulu 先吃
+- percakapan sehari-hari
+- meaning:
+  - arti
+  - maksud
+  - makna 涵义
+- susah
+  - susah dapat sinyal internet
+  - sulit
+- lingkungan 表示圈子，人际圈子
+  - kelompok 小团体
+  - pihak 方，站边
+  - pihak
+- seharusnya tidak bisa didapatkan
+- Kok bisa sih begitu
+- om：叔叔
+- pinjam 借
+- bekas
+  - bekas yang kemarin dicuci aja
+- air beriak tanda(表示) tak dalam
+- musuh
+- Dalam laut boleh diduga, dalam hati siapa yang tahu?
+- duga（猜）
+- teman
+  - berteman 交朋友
+  - menemani 陪伴
+- abang
+  - bang
+  - bro
+  - bapak
+- belum tentu
+- menebak
+  - tebak
+- sembunyi
+- terkadang
+- selanjut
+  - lanjut
+
+## Chat
+
+- bagaimana hari kamu kemarin?
+- wings of dread
+- kungfu soccer
+- tidak selalu
+- akhir-akhiri ini
+- tidak layak ditonton
+- berapa uang
+- biaya
+- secara visual
+- cerita
+- 梗
+- banyak candaan
+- sebuah lelucon
+- jarang ditemukan
+- genit
+- bukan feminim
+- lemah lembut
+- percaya diri = pd
+- 自信
+- semangat 精神
+- 加油
+- mau- ingin - pingin - pengen
+- tidak pakai itu lagi
+- sekolah dasar
+- smp
+- pertama
+- jenis lagu
+- jedag jedug
+- gue
+- I me mine
+- musik video korea
+- klakson mobil , bus
+- cukup menarik
+- angkuktan kota
+- KAI
+- kkaca
+- kaca
+- lihat langit dengan jelas
+- langit-langit 天花板
+- transparan
+- terbuat dari kaca
+- enam ratus
+- tidak ada penerbangan langsung
+- dari surabaya ke jogja
+- naik mobil sendiri
+- tradisional
+- dekat dengan
+- terlalu banyak karbohidrat
+- total populasi
+- jumlah
+- diabetes
+- hambar
+- teh tawar
+- berasa
+- campur sambal
+- meme

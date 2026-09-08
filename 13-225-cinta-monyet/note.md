@@ -1,0 +1,91 @@
+## Brief
+
+- terinspirasi dari satu video yang viral di internet
+  - Satu anak SD yang sedang dibuatkan bekal oleh ibunya
+  - dia bawa dua untuk suka-suka dia
+  - cowoknya memanggil si cewek wife dan daddy
+- Lucu tapi geli banget, sebenarnya sudah sejak lama, dari dulu guru dan tua pasti mengajarkan tidak boleh seperti itu
+- Mernutut Windah, perilaku cowoknya masih wajar. Menunjukkan ketertarikan kepada lawan jenis
+  - malah bagus kalau dia bisa berbagi makanan dengan orang yang dia suka
+- Komentar banyak bilang belum waktunya cinta-cintaan
+- Cinta monyet, cinta-cintaan anak kecil, cepat berubah, cepat hilang
+- biasanya cinta sekolah, bahkan dimulai dari TK.
+  - Windah sendiri pertama kali suka-sukaan sama cowok itu waktu umur 5 tahun
+  - tapi cara dia menunjukkan suka-sukaan bukan dengan berbagi, tapi dengan berantem
+
+## Kata baru & Pertanyaan
+
+- bekal
+- Martabak mi gelas
+  - makanan ringan
+- kebetulan
+  - 恰巧
+  - betul
+- Ngapain bawa dua
+- curiga
+- HP?
+  - handphone
+- si 的用法
+  - 亲近的人
+- satu sama lain （不在课文中）
+  - 一个另一个
+- geli：肉麻？
+  - gatal 痒，形容老男人骚扰女性
+  - geli 心里痒
+- cinta-cintaan
+- perilaku 行为
+- wajar 合理的
+  - normal
+  - biasa
+- ketertarikan 例句？我感兴趣...
+  - tertarik / menarik / tarik
+  - menuntukkan keterterikan
+- lawan jenis
+  - lawan bicara
+  - lawan：opposite
+  - lawan kata
+- malah：相当，反而
+  - malah bagus：反而好
+  - malah berbahaya
+- tetap saja：尽管如此
+- kaget
+  - kejut：惊吓
+- hiburan 娱乐
+  - compare. libur
+- suka-sukaan sama cowok
+- TK B, K2
+- ganteng
+  - tampan
+- berantem
+  - bertengkar
+  - rebutan 抢
+- putus
+- mengkritik
+- taman hiduran：disneyland
+- sebelahnya
+- semakin
+
+## Note
+
+- pengaruhi
+- pengalaman
+- dewasa
+- besar
+- dari awal sampai akhir
+- secara keseluruhan
+- tanpa
+- cari kata
+- betul --- benar
+- kebetulan --- 恰巧
+- sri
+- lawan kata
+- lawan jenis
+- sinonim
+- lumayan bagus = cukup bagus
+- taman hiburan
+- hallopuspa
+- mengalami
+- menangani
+- mena-nga-ni
+- n vs l
+- bahasa melayu jawi
