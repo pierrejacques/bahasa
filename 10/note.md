@@ -15,144 +15,144 @@
 
 # Kata baru & Pertanyaan
 
-- seluruh
-  - semua
+- seluruh  — 整个
+  - semua  — 所有
   - seluru xxx
-  - setiap
-  - masing-masing
-  - beberapa
-  - seseorang
-  - sesuatu
-  - suatu
-  - tertentu
-  - saling
-- bencana
-- gempa bumi
-- Lahan
+  - setiap  — 每个
+  - masing-masing  — 各自
+  - beberapa  — 一些
+  - seseorang  — 某人
+  - sesuatu  — 某物
+  - suatu  — 某个
+  - tertentu  — 特定
+  - saling  — 互相
+- bencana  — 灾难
+- gempa bumi  — 地震
+- Lahan  — 土地
   - 土地
 - Karhutla
-- Namun
-  - tapi
-- skala: scale
+- Namun  — 然而
+  - tapi  — 但是
+- skala: scale  — 规模
 - asap tebal: 浓烟
 - bahkan 甚至
-- tetangga
-  - negara tetangga
-- mengancam
-  - ancam
-- infeksi: infection
-- saluran pernapasan
-  - bernapas
-  - terowongan
-- salah satu
-- keberadaan
-- satwa liar
+- tetangga  — 邻居
+  - negara tetangga  — 邻国
+- mengancam  — 威胁
+  - ancam  — 威胁
+- infeksi: infection  — 感染
+- saluran pernapasan  — 呼吸道
+  - bernapas  — 呼吸
+  - terowongan  — 隧道
+- salah satu  — 其中之一
+- keberadaan  — 存在
+- satwa liar  — 野生动物
   - satwa：比较书面
-  - binatang
-  - hewan
-  - binatang peliharaan
-  - anabul
-- dampak
+  - binatang  — 动物
+  - hewan  — 动物
+  - binatang peliharaan  — 宠物
+  - anabul  — 宠物
+- dampak  — 影响
   - 可以是正面的，便书面
-  - pengaruh
+  - pengaruh  — 影响
   - akibat 导致
-- benar-benar
-- perbincangan
-  - percakapan
-- bencana alam
-- akibat perbuatan manusia
+- benar-benar  — 真正
+- perbincangan  — 讨论
+  - percakapan  — 对话
+- bencana alam  — 自然灾害
+- akibat perbuatan manusia  — 人为造成的后果
   - apakah semua kebakaran ini benar-benar bencana alam, atau akibat perbuatan manusia?
   - apakah kebakaran ini hanya karena perubahan iklim, atau ada kesengajaan dari pihak tertentu?
   - pihak tertentu 一伙
 - memang sedang ramai dengan xxx
-  - memang: e
+  - memang: e  — 的确
   - ramai：热闹，不能说人，说氛围
   - sibuk：忙碌
-- peralihan fungsi hutan
+- peralihan fungsi hutan  — 森林功能转变
   - peralihan：transition，书面
-  - perubahan
-- kebun sawit
-  - kebun：garden
-  - kebun teh
+  - perubahan  — 变化
+- kebun sawit  — 棕榈种植园
+  - kebun：garden  — 花园
+  - kebun teh  — 茶园
   - 梯田：sawah
-- pisah
-  - dipisahkan
-  - memisahkan?
+- pisah  — 分开
+  - dipisahkan  — 被分开
+  - memisahkan?  — 分离
   - tidak bisa dipisahkan dan saling（互相） berkaitan.
-- kehidupan masyarakat adat
-  - adat
-- pedalaman
-  - masyarakat pedalaman
+- kehidupan masyarakat adat  — 原住民社会的生活
+  - adat  — 习俗
+- pedalaman  — 内陆
+  - masyarakat pedalaman  — 内陆居民
   - Papua
-- kebutuhan
-- obat
+- kebutuhan  — 需求
+- obat  — 药
   - ubud
-- tautan
-- keterangan
-- kebutuhan medis
-- bahan
-  - bahan makanan
-  - barang
-  - benda
+- tautan  — 链接
+- keterangan  — 说明
+- kebutuhan medis  — 医疗需求
+- bahan  — 材料
+  - bahan makanan  — 食材
+  - barang  — 物品
+  - benda  — 物体
 
 ## Chat
 
-- tidur jam berapa
-- untuk bangun pagi
+- tidur jam berapa  — 几点睡觉
+- untuk bangun pagi  — 为了早起
 - kamu tidur berapa jam? -- 6 jam
 - jam berapa? --- jam 12
 - pukul berapa ? pukul ...
-- te-tangga
+- te-tangga  — 邻居
 - brunei
-- pernapasan
-- satwa liar
-- terpengaruh
-- perbincangan
-- percakapan
-- perubahan iklim
-- perbuatan manusia
-- kebakaran atau dibakar
-- kebutuhan medis
-- sedikit sulit
-- lebih pendek
+- pernapasan  — 呼吸
+- satwa liar  — 野生动物
+- terpengaruh  — 受影响
+- perbincangan  — 讨论
+- percakapan  — 对话
+- perubahan iklim  — 气候变化
+- perbuatan manusia  — 人类行为
+- kebakaran atau dibakar  — 火灾还是纵火
+- kebutuhan medis  — 医疗需求
+- sedikit sulit  — 有点难
+- lebih pendek  — 更短
 - semua vs seluruh
-- pihak
-- suatu pihak
+- pihak  — 一方
+- suatu pihak  — 某方
 - Dia sedang memikirkan sesuatu di kamar.
 - Ibu memasak sesuatu yang enak hari ini.
-- suatu hari
-- suatu barang
-- barang tertentu
-- hari tertentu
-- suatu tempat
-- suatu desa
+- suatu hari  — 某天
+- suatu barang  — 某件物品
+- barang tertentu  — 特定物品
+- hari tertentu  — 特定的日子
+- suatu tempat  — 某个地方
+- suatu desa  — 某个村庄
 - lahan 土地
-- cukup sering
-- lihat peta
+- cukup sering  — 相当频繁
+- lihat peta  — 看地图
 - ancam -- mengancam
-- terowongan = tunnel
+- terowongan = tunnel  — 隧道
 - ada --- berada -- keberadaan
-- binatang peliharaan
+- binatang peliharaan  — 宠物
 - pelihara -- 养
-- anabul
-- anak bulu
-- dampak negatif
-- dampak positif
-- pengaruh
+- anabul  — 宠物
+- anak bulu  — 毛孩子
+- dampak negatif  — 负面影响
+- dampak positif  — 正面影响
+- pengaruh  — 影响
 - ilam
-- ilmu
-- ilmu pengetahuan alam
-- percakapan
-- akibat
-- akibat tidak tidur
+- ilmu  — 知识
+- ilmu pengetahuan alam  — 自然科学
+- percakapan  — 对话
+- akibat  — 后果
+- akibat tidak tidur  — 不睡觉的后果
 - maaf, saya tidak sengaja
 - merayakan 庆祝
 - banyak orang merayakan hari raya
-- kebun sawit = palm oil plantation
-- kelapa sawit
-- sawah
-- pisah
-- adat
+- kebun sawit = palm oil plantation  — 棕榈种植园
+- kelapa sawit  — 油棕
+- sawah  — 稻田
+- pisah  — 分开
+- adat  — 习俗
 - Masyarakat adat Baduy
 - konghucu
 - hindu

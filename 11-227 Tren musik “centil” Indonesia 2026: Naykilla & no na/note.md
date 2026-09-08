@@ -10,49 +10,49 @@
 
 # Kata baru & Pertanyaan
 
-- suka lagu galau
-- cantil
-- perilaku yang cekwek
+- suka lagu galau  — 喜欢忧郁情歌
+- cantil  — 妖娆；爱俏(俚，同 centil)
+- perilaku yang cekwek  — 娇俏的举止
 - cangpuran imut dan juga seksi
 - sifat yang _menggoda_, sifat yang _genit_
-- dewasa, kekanak-kanakan
-- feminim yang lemah lembut
-  - lemah lembut
+- dewasa, kekanak-kanakan  — 成熟；孩子气
+- feminim yang lemah lembut  — 温柔的女性气质
+  - lemah lembut  — 温柔
 - PD dan semangat ?
-  - percaya diri
-- membayangkan?
+  - percaya diri  — 自信
+- membayangkan?  — 想象
   - bisa membayangkan musik centil itu yang seperti apa?
-- irama: rythmn
-- pengen ikut-ikutan goyang
-  - pengen: ingin / mau
-  - goyang: shake
+- irama: rythmn  — 节奏
+- pengen ikut-ikutan goyang  — 想跟着一起摇摆
+  - pengen: ingin / mau  — 想；要
+  - goyang: shake  — 摇摆
 - SD
   - SMA
   - SMP
-  - sekolah dasar
+  - sekolah dasar  — 小学
 - Cinta Laura
 - gabungan hip-hop dengan dangdut Indonesia yang jedag-jedug
-  - dangdut: gaya
-  - jedag-jedug
+  - dangdut: gaya  — 当独(印尼歌舞曲风)
+  - jedag-jedug  — 咚呲哒(节拍拟声)
 - jadilah aliran baru yang namanya “hip-dut”, hip-hop dangdut
 - My Mine Gueh, Maksudnya, Kamu
-  - Maksudnya
-  - arti
-- diputar
-- cewek
+  - Maksudnya  — 意思是
+  - arti  — 意思
+- diputar  — 播放
+- cewek  — 女孩
 - Pakai baju pasar, aku masih sabi
-- gaya: style
-- unik: unique
-- dandanan dan cara pakaian
-  - dandanan: makeup
+- gaya: style  — 风格
+- unik: unique  — 独特
+- dandanan dan cara pakaian  — 打扮和穿衣方式
+  - dandanan: makeup  — 打扮；妆容
 - terlalu alay dan terlalu berlebihan
-  - alay
-- mbak
-- sopan
-- kendataan umum
-  - angkot
-- mengenalkan
-- meme
+  - alay  — 土味；做作(俚)
+- mbak  — 姐；小姐(称呼)
+- sopan  — 有礼貌
+- kendataan umum  — 公共交通
+  - angkot  — 城市小巴
+- mengenalkan  — 介绍
+- meme  — 表情包；梗图
 - Om Telolet Om
 
 ## Chat
@@ -60,56 +60,56 @@
 - bagaimana hari kamu kemarin?
 - wings of dread
 - kungfu soccer
-- tidak selalu
-- akhir-akhiri ini
-- tidak layak ditonton
-- berapa uang
-- biaya
-- secara visual
-- cerita
+- tidak selalu  — 不总是
+- akhir-akhiri ini  — 最近
+- tidak layak ditonton  — 不值得看
+- berapa uang  — 多少钱
+- biaya  — 费用
+- secara visual  — 视觉上
+- cerita  — 故事
 - 梗
-- banyak candaan
-- sebuah lelucon
-- jarang ditemukan
-- genit
-- bukan feminim
-- lemah lembut
-- percaya diri = pd
+- banyak candaan  — 很多玩笑
+- sebuah lelucon  — 一个笑话
+- jarang ditemukan  — 很少见
+- genit  — 妖媚；轻佻
+- bukan feminim  — 不女性化
+- lemah lembut  — 温柔
+- percaya diri = pd  — 自信
 - 自信
 - semangat 精神
 - 加油
-- mau- ingin - pingin - pengen
+- mau- ingin - pingin - pengen  — 想；要
 - tidak pakai itu lagi
-- sekolah dasar
+- sekolah dasar  — 小学
 - smp
-- pertama
-- jenis lagu
-- jedag jedug
-- gue
+- pertama  — 第一
+- jenis lagu  — 歌曲类型
+- jedag jedug  — 咚呲哒(节拍拟声)
+- gue  — 我(雅加达俚)
 - I me mine
-- musik video korea
-- klakson mobil , bus
-- cukup menarik
-- angkuktan kota
+- musik video korea  — 韩国音乐视频
+- klakson mobil , bus  — (汽车、巴士的)喇叭
+- cukup menarik  — 挺有意思
+- angkuktan kota  — 城市公交(angkutan)
 - KAI
 - kkaca
-- kaca
+- kaca  — 玻璃
 - lihat langit dengan jelas
 - langit-langit 天花板
-- transparan
-- terbuat dari kaca
-- enam ratus
-- tidak ada penerbangan langsung
+- transparan  — 透明
+- terbuat dari kaca  — 由玻璃制成
+- enam ratus  — 六百
+- tidak ada penerbangan langsung  — 没有直飞航班
 - dari surabaya ke jogja
-- naik mobil sendiri
-- tradisional
-- dekat dengan
-- terlalu banyak karbohidrat
-- total populasi
-- jumlah
-- diabetes
-- hambar
-- teh tawar
-- berasa
-- campur sambal
-- meme
+- naik mobil sendiri  — 自己开车
+- tradisional  — 传统的
+- dekat dengan  — 靠近
+- terlalu banyak karbohidrat  — 碳水太多
+- total populasi  — 总人口
+- jumlah  — 数量
+- diabetes  — 糖尿病
+- hambar  — 淡而无味
+- teh tawar  — 无糖茶
+- berasa  — 有味道
+- campur sambal  — 拌辣椒酱
+- meme  — 表情包

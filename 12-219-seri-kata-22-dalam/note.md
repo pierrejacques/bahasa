@@ -20,98 +20,98 @@
   - terlebih dahulu 是什么意思，先 in advance
   - dulu 先
   - makan dulu 先吃
-- percakapan sehari-hari
+- percakapan sehari-hari  — 日常对话
 - meaning:
-  - arti
-  - maksud
+  - arti  — 意思
+  - maksud  — 意图；意思
   - makna 涵义
-- susah
+- susah  — 难
   - susah dapat sinyal internet
-  - sulit
+  - sulit  — 难
 - lingkungan 表示圈子，人际圈子
   - kelompok 小团体
   - pihak 方，站边
-  - pihak
+  - pihak  — 方；一方
 - seharusnya tidak bisa didapatkan
 - Kok bisa sih begitu
 - om：叔叔
 - pinjam 借
-- bekas
+- bekas  — 旧的；用过的
   - bekas yang kemarin dicuci aja
 - air beriak tanda(表示) tak dalam
-- musuh
+- musuh  — 敌人
 - Dalam laut boleh diduga, dalam hati siapa yang tahu?
 - duga（猜）
-- teman
+- teman  — 朋友
   - berteman 交朋友
   - menemani 陪伴
-- abang
-  - bang
-  - bro
-  - bapak
-- belum tentu
-- menebak
-  - tebak
-- sembunyi
-- terkadang
-- selanjut
-  - lanjut
+- abang  — 哥(称呼)
+  - bang  — 哥(abang 简称)
+  - bro  — 兄弟
+  - bapak  — 父亲；先生
+- belum tentu  — 未必
+- menebak  — 猜
+  - tebak  — 猜
+- sembunyi  — 躲藏
+- terkadang  — 有时
+- selanjut  — 接下来(selanjutnya)
+  - lanjut  — 继续
 
 ## Chat
 
 - bagaimana hari kamu kemarin?
 - wings of dread
 - kungfu soccer
-- tidak selalu
-- akhir-akhiri ini
-- tidak layak ditonton
-- berapa uang
-- biaya
-- secara visual
-- cerita
+- tidak selalu  — 不总是
+- akhir-akhiri ini  — 最近
+- tidak layak ditonton  — 不值得看
+- berapa uang  — 多少钱
+- biaya  — 费用
+- secara visual  — 视觉上
+- cerita  — 故事
 - 梗
-- banyak candaan
-- sebuah lelucon
-- jarang ditemukan
-- genit
-- bukan feminim
-- lemah lembut
-- percaya diri = pd
+- banyak candaan  — 很多玩笑
+- sebuah lelucon  — 一个笑话
+- jarang ditemukan  — 很少见
+- genit  — 妖媚；轻佻
+- bukan feminim  — 不女性化
+- lemah lembut  — 温柔
+- percaya diri = pd  — 自信
 - 自信
 - semangat 精神
 - 加油
-- mau- ingin - pingin - pengen
+- mau- ingin - pingin - pengen  — 想；要
 - tidak pakai itu lagi
-- sekolah dasar
+- sekolah dasar  — 小学
 - smp
-- pertama
-- jenis lagu
-- jedag jedug
-- gue
+- pertama  — 第一
+- jenis lagu  — 歌曲类型
+- jedag jedug  — 咚呲哒(节拍拟声)
+- gue  — 我(雅加达俚)
 - I me mine
-- musik video korea
-- klakson mobil , bus
-- cukup menarik
-- angkuktan kota
+- musik video korea  — 韩国音乐视频
+- klakson mobil , bus  — (汽车、巴士的)喇叭
+- cukup menarik  — 挺有意思
+- angkuktan kota  — 城市公交(angkutan)
 - KAI
 - kkaca
-- kaca
+- kaca  — 玻璃
 - lihat langit dengan jelas
 - langit-langit 天花板
-- transparan
-- terbuat dari kaca
-- enam ratus
-- tidak ada penerbangan langsung
+- transparan  — 透明
+- terbuat dari kaca  — 由玻璃制成
+- enam ratus  — 六百
+- tidak ada penerbangan langsung  — 没有直飞航班
 - dari surabaya ke jogja
-- naik mobil sendiri
-- tradisional
-- dekat dengan
-- terlalu banyak karbohidrat
-- total populasi
-- jumlah
-- diabetes
-- hambar
-- teh tawar
-- berasa
-- campur sambal
-- meme
+- naik mobil sendiri  — 自己开车
+- tradisional  — 传统的
+- dekat dengan  — 靠近
+- terlalu banyak karbohidrat  — 碳水太多
+- total populasi  — 总人口
+- jumlah  — 数量
+- diabetes  — 糖尿病
+- hambar  — 淡而无味
+- teh tawar  — 无糖茶
+- berasa  — 有味道
+- campur sambal  — 拌辣椒酱
+- meme  — 表情包

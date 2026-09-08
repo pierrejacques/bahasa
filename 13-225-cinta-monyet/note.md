@@ -15,16 +15,16 @@
 
 ## Kata baru & Pertanyaan
 
-- bekal
+- bekal  — 便当；干粮
 - Martabak mi gelas
-  - makanan ringan
-- kebetulan
+  - makanan ringan  — 零食
+- kebetulan  — 恰巧；碰巧
   - 恰巧
-  - betul
+  - betul  — 对；正确
 - Ngapain bawa dua
-- curiga
+- curiga  — 怀疑
 - HP?
-  - handphone
+  - handphone  — 手机
 - si 的用法
   - 亲近的人
 - satu sama lain （不在课文中）
@@ -32,60 +32,60 @@
 - geli：肉麻？
   - gatal 痒，形容老男人骚扰女性
   - geli 心里痒
-- cinta-cintaan
+- cinta-cintaan  — 谈情说爱
 - perilaku 行为
 - wajar 合理的
-  - normal
-  - biasa
+  - normal  — 正常
+  - biasa  — 普通；平常
 - ketertarikan 例句？我感兴趣...
-  - tertarik / menarik / tarik
-  - menuntukkan keterterikan
-- lawan jenis
-  - lawan bicara
-  - lawan：opposite
-  - lawan kata
+  - tertarik / menarik / tarik  — 感兴趣／吸引／拉
+  - menuntukkan keterterikan  — 表现出兴趣
+- lawan jenis  — 异性
+  - lawan bicara  — 对话者
+  - lawan：opposite  — 对手；相反
+  - lawan kata  — 反义词
 - malah：相当，反而
   - malah bagus：反而好
-  - malah berbahaya
+  - malah berbahaya  — 反而危险
 - tetap saja：尽管如此
-- kaget
+- kaget  — 吃惊
   - kejut：惊吓
 - hiburan 娱乐
   - compare. libur
-- suka-sukaan sama cowok
+- suka-sukaan sama cowok  — (小孩)喜欢某个男生
 - TK B, K2
-- ganteng
-  - tampan
-- berantem
-  - bertengkar
+- ganteng  — 帅
+  - tampan  — 英俊
+- berantem  — 吵架；打架
+  - bertengkar  — 争吵
   - rebutan 抢
-- putus
-- mengkritik
-- taman hiduran：disneyland
-- sebelahnya
-- semakin
+- putus  — 断；分手
+- mengkritik  — 批评
+- taman hiduran：disneyland  — 游乐园
+- sebelahnya  — 旁边的
+- semakin  — 越来越
 
 ## Note
 
-- pengaruhi
-- pengalaman
-- dewasa
-- besar
-- dari awal sampai akhir
-- secara keseluruhan
-- tanpa
-- cari kata
-- betul --- benar
+- pengaruhi  — 影响
+- pengalaman  — 经验；经历
+- dewasa  — 成熟；成年
+- besar  — 大
+- dari awal sampai akhir  — 从头到尾
+- secara keseluruhan  — 总体上
+- tanpa  — 没有；无
+- cari kata  — 查词
+- betul --- benar  — 对；正确
 - kebetulan --- 恰巧
 - sri
-- lawan kata
-- lawan jenis
-- sinonim
-- lumayan bagus = cukup bagus
-- taman hiburan
+- lawan kata  — 反义词
+- lawan jenis  — 异性
+- sinonim  — 近义词
+- lumayan bagus = cukup bagus  — 还不错
+- taman hiburan  — 游乐园
 - hallopuspa
-- mengalami
-- menangani
+- mengalami  — 经历；遭遇
+- menangani  — 处理
 - mena-nga-ni
 - n vs l
 - bahasa melayu jawi

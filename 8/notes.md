@@ -1,51 +1,51 @@
-- lambat / larut
-- lulus
-- berahkir
-- sibuk / malas
-- setiap hari
-- generasi keempat
+- lambat / larut  — 慢 / 晚
+- lulus  — 毕业/通过
+- berahkir  — 结束
+- sibuk / malas  — 忙 / 懒
+- setiap hari  — 每天
+- generasi keempat  — 第四代
 - bahasa yang dia pakai di rumah
-- contohnya
-- misalnya
+- contohnya  — 例如
+- misalnya  — 比如
 - 比如说
-- perayaan
-- tinggal bersama a
-- pernikahan
-- restu
-- kemerdekaan
-- demo = protes
-- terbakar
-- awal bulan ini
-- tempat wisata
+- perayaan  — 庆典
+- tinggal bersama a  — 一起住
+- pernikahan  — 婚礼
+- restu  — 祝福/许可
+- kemerdekaan  — 独立
+- demo = protes  — 抗议/示威
+- terbakar  — 着火/被烧
+- awal bulan ini  — 这个月初
+- tempat wisata  — 旅游景点
 - gunung bromo
 - kamu ada saran tempat lain?
 - kamu menyarankan tempat apa?
 - labuan bajo
 - komodo
-- kapal
+- kapal  — 船
 - semarang
 - semeru
-- lebih banyak bdaya
+- lebih banyak bdaya  — 更多文化
 - saya mau merasakan budaya lokal indonesia
-- sangat ramah
-- pantai
-- hutan
+- sangat ramah  — 非常友好
+- pantai  — 海滩
+- hutan  — 森林
 - uluwatu
-- tari kecak bali
-- monyet
+- tari kecak bali  — 巴厘凯恰克舞
+- monyet  — 猴子
 - monkey forest
 - desa wisata panglipuran
-- di luar ruangan
+- di luar ruangan  — 户外
 - GWK
 - garuda wisnu kencana
-- sewa mobil
-- supir
-- dalam kota
-- pemandu dan penerjemah
-- setuju -- persetujuan
+- sewa mobil  — 租车
+- supir  — 司机
+- dalam kota  — 市区内
+- pemandu dan penerjemah  — 导游和翻译
+- setuju -- persetujuan  — 同意 / 协议
 - saya cari tahu tempat wisata di bali, supaya saya tahu mau ke mana
 - saya makan obat supaya cepat sembuh
-- Mata pencaharian
-- SMA sekolah menengah atas
-- pertama
-- tadi
+- Mata pencaharian  — 生计
+- SMA sekolah menengah atas  — 高中
+- pertama  — 第一
+- tadi  — 刚才

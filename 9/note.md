@@ -5,14 +5,14 @@
   - 当
   - kalau kamu? 表示 and you
   - jika 比较书面
-- persis：precise
+- persis：precise  — 精确；一模一样
   - persis banget warnanya dengan: 这里的 banget
 - inilah: Bendera merah putih inilah yang dijadikan lambang gerakan nasionalis di masa penjajahan sebelum Indonesia merdeka
-- gerakan
-  - bergerak
-- ternyata
+- gerakan  — 运动；动作
+  - bergerak  — 移动；行动
+- ternyata  — 原来；结果
   - ternyata tidak：原来
-- cari tahu
+- cari tahu  — 查明；打听
 - masing-masing 每个
 - 题外：binatang vs hewan
   - binatang peliharaan
@@ -20,7 +20,7 @@
   - tapi masing-masing tetap punya sejarah yang berbeda-beda
   - 仍然，Hari ini demo, tetap saya bekerja
 - nusa：岛 vs pulau
-  - nusantara
+  - nusantara  — 群岛；全国
   - nusa 强调国土
   - vs tanah (earth)
   - vs bangsa
@@ -31,26 +31,26 @@
   - vs era
   - vs periode
   - vs abad 世纪
-- jauh sebelum
+- jauh sebelum  — 远早于
   - lama sebelum 不可以
 - pernah ada xxx 有过xxx
 - bahwa 省略？
 - robek 撕裂
 - kata 的含义 dalam：Warna biru di bendera Belanda katanya melambangkan keadilan
 - 为什么 tidak punya keadilan
-- sepenuhnya
+- sepenuhnya  — 完全地
 - memang vs tentu vs yakin
   - memang (indeed)
   - tentu (of course)
   - yakin (sure)
 - peristiwa (很书面，历史事件) vs kejadian（小事）
-  - insiden
-- melawan
+  - insiden  — 事件；事故
+- melawan  — 对抗；反抗
   - pertahanan 防御
-  - pembelaan
+  - pembelaan  — 辩护；防卫
 - yang 针对哪个词：orang Indonesia melawan orang Belanda yang memasang bendera Belanda dengan cara merobek warna birunya.
 - mula 开端
-  - mulai
+  - mulai  — 开始
 - keliru （误以为，误解）
   - vs salah
   - opp. tepat
@@ -59,7 +59,7 @@
   - angka vs nomor vs hitung: 数字 vs 号码 vs 计算/数
   - lebihkan / berlebihkan? / berlebih-lebihkan / berkelebihkan?
 - sumber: 来源，（from javanese 泉水/井水）
-- tergantung：depend
+- tergantung：depend  — 取决于；依赖
   - gantung 挂
 - ilmu vs pengetahuan：学科 vs 知识？
 - 短句：Benar-benar pernah terjadi, atau yakin tidak pernah terjadi.
@@ -67,59 +67,59 @@
 
 题外
 
-- tip di indonesia
-- demo di indonesia
+- tip di indonesia  — 在印尼给小费
+- demo di indonesia  — 印尼的示威游行
 
-- alasan utama koropsi / koroptor
-- sita aset
+- alasan utama koropsi / koroptor  — 腐败的主因(koruptor 贪官)
+- sita aset  — 没收资产
 
-- program berhenti
-- makan bergizi
+- program berhenti  — 项目停止
+- makan bergizi  — 营养餐
 
 课堂
 
-- mau banyak latihan
-- hari kemerdekaan
-- kapan?
-- korupsi
-- alasan utama
+- mau banyak latihan  — 想多练习
+- hari kemerdekaan  — 独立日
+- kapan?  — 什么时候
+- korupsi  — 腐败
+- alasan utama  — 主要原因
 - mereka mau koruptor dihukum mati
-- sita aset
-- program pemerintah
-- berhenti
-- makan bergizi gratis
+- sita aset  — 没收资产
+- program pemerintah  — 政府项目
+- berhenti  — 停止
+- makan bergizi gratis  — 免费营养餐
 - 免费营养餐
-- menghabiskan banyak uang
+- menghabiskan banyak uang  — 花很多钱
 - orang yang makan keracunan
 - racun 毒
-- jakarta pusat
-- pusat jakarta
+- jakarta pusat  — 中雅加达
+- pusat jakarta  — 雅加达市中心
 - kalau bisa tidak perlu keluar rumah
 - berkaitan = 关于
-- tentang
+- tentang  — 关于
 - film ini terkait dengan sejarah indonesia
 - kalau kamu?
 - (书面） jika vs kalau （口语）
 - 吴语
 - 爱情神话
 - 繁花
-- sinetron
-- konten
+- sinetron  — 肥皂剧
+- konten  — 内容
 - 海上花列传
-- masing-masing
+- masing-masing  — 各自
 - di sini ada 10 buku, masing-masing ambil 5 buku
 - ikn
 - ibu kota nusantara
-- ibu kota = capital city
+- ibu kota = capital city  — 首都
 - dalam negeri atau luar negeri juga?
-- tanah air
-- periode
-- masa - jaman
-- masa kecil
-- masa depan
-- masa lalu
+- tanah air  — 祖国
+- periode  — 时期
+- masa - jaman  — 时代
+- masa kecil  — 小时候
+- masa depan  — 未来
+- masa lalu  — 过去
 - hari ini demo
 - tapi saya tetap kerja
-- tentu saja
-- tidak yakin
-- insiden
+- tentu saja  — 当然
+- tidak yakin  — 不确定
+- insiden  — 事件；事故

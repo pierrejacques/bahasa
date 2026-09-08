@@ -1,43 +1,43 @@
 ## Kelas 3
 
-- bekerja vs belajar
-- suara anjing = dog's voice
-- menjadi kecil = become small
+- bekerja vs belajar  — 工作 vs 学习
+- suara anjing = dog's voice  — 狗的声音
+- menjadi kecil = become small  — 变小
 - terjadi = 发生 / menjadi = 变成
-- garing = crispy
+- garing = crispy  — 脆
 - mi instan kuah / indomie kuah
 - topik 主题
-- sebagai sarapan = as breakfast
-- lebih berair = more watery
-- bermacam-macam = various
+- sebagai sarapan = as breakfast  — 作为早餐
+- lebih berair = more watery  — 水分更多
+- bermacam-macam = various  — 各种各样
 - cabe 辣椒 / pedas 辣
 - mereka 他们
-- lebih suka = prefer
+- lebih suka = prefer  — 更喜欢
 - pedas sekali / sangat pedas / paling pedas / terpedas
-- yang paling terkenal = the most famous
-- tidak sepedas = not as spicy as (se- = as...as)
-- telur asin / telur pitan
-- sayur asin = pickled vegetables
-- berasal dari = originate from
+- yang paling terkenal = the most famous  — 最有名的
+- tidak sepedas = not as spicy as (se- = as...as)  — 没那么辣
+- telur asin / telur pitan  — 咸蛋 / 皮蛋
+- sayur asin = pickled vegetables  — 咸菜
+- berasal dari = originate from  — 来自
 - pedas kebas / pedas cabe / pedas merica (different types of spiciness)
   - pedas merica putih / hitam
-- lembek vs garing = soft vs crispy
-- berair vs kental = watery vs thick
+- lembek vs garing = soft vs crispy  — 软 vs 脆
+- berair vs kental = watery vs thick  — 稀 vs 浓稠
 - biskuit 饼干
 - hijau = ijo = 绿色
 - mantap banget 非常棒
-- sangat / sekali / banget = very (three ways)
+- sangat / sekali / banget = very (three ways)  — 很 / 非常
 - rasa = taste / merasa 感觉 / terasa = felt (passive)
 - dimakan (passive) / termakan (accidental passive)
 - masih = 还 / masih ada = 还有
 - lebih mendekati kehidupan sehari-hari = closer to daily life
 - se- = one (seorang, sebuah buku, seseorang)
 - supaya, selain, sambil, walaupun, apalagi, belum lagi (conjunctions)
-- saja = aja = just/only
-- stand up komedi
-- biji kopi = coffee bean / kacang tanah = peanut
+- saja = aja = just/only  — 只 / 仅仅
+- stand up komedi  — 单口喜剧
+- biji kopi = coffee bean / kacang tanah = peanut  — 咖啡豆 / 花生
 - aceh / medan = tempat wisata
 - terbang 飞
 - cek 查看
-- orang tionghoa = Chinese people
-- harimau sumatera = Sumatran tiger
+- orang tionghoa = Chinese people  — 华人
+- harimau sumatera = Sumatran tiger  — 苏门答腊虎

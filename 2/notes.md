@@ -1,47 +1,47 @@
 ## Kelas 2
 
-- itu saja = that's all, just that
+- itu saja = that's all, just that  — 就这些
 - kecepatan 速度
 - lama = 久, lambat = 慢
-- terdengar = heard
-- kebanyakan waktu = most time
-- jarang = seldom
-- sering = often
-- terlalu = too (much)
+- terdengar = heard  — 听得见
+- kebanyakan waktu = most time  — 大部分时间
+- jarang = seldom  — 很少
+- sering = often  — 经常
+- terlalu = too (much)  — 太
 - telur bebek / telur puyuh（鹌鹑蛋, quail egg）
 - produk 商品
 - saya juga pikir begitu 我也这么想 / saya setuju 我同意
 - skm = susu kental manis 炼乳
 - bubur 粥 / bumbu 香料
-- saat sarapan = at breakfast
-- swalayan = supermarket
+- saat sarapan = at breakfast  — 早餐时
+- swalayan = supermarket  — 超市
 - rak 架
-- sadar = realize
-- susu segar = fresh milk
+- sadar = realize  — 意识到
+- susu segar = fresh milk  — 鲜奶
 - selatan 南
-- cairan = liquid
+- cairan = liquid  — 液体
 - makanan khas = speciality food（特色）
-- mungkin = maybe
-- di mana-mana ada = everywhere
-- halia = ginger
+- mungkin = maybe  — 也许
+- di mana-mana ada = everywhere  — 到处都有
+- halia = ginger  — 姜
 - teh halia / teh susu 奶茶
-- dua tahun lalu / dua tahun yang lalu = two years ago
-- dua tahun kedepan = two years from now
+- dua tahun lalu / dua tahun yang lalu = two years ago  — 两年前
+- dua tahun kedepan = two years from now  — 两年后
 - rabu depan 下周三
 - agar tidak masuk angin = so as not to catch a cold
 - agak 有点
-- obat tolak angin = herbal cold remedy
-- hujan deras = heavy rain
-- daring = dalam jaringan = online
-- tradisional
-- mentah = raw, matang = cooked
-- telur setengah matang = half-cooked egg
-- terjaga = awake
-- pinggir jalan / sisi jalan = roadside
-- pinggir pantai = seaside
-- kata = word
-- untuk / buat = for
+- obat tolak angin = herbal cold remedy  — 感冒草药
+- hujan deras = heavy rain  — 大雨
+- daring = dalam jaringan = online  — 在线
+- tradisional  — 传统
+- mentah = raw, matang = cooked  — 生的；熟的
+- telur setengah matang = half-cooked egg  — 半熟蛋
+- terjaga = awake  — 醒着
+- pinggir jalan / sisi jalan = roadside  — 路边
+- pinggir pantai = seaside  — 海边
+- kata = word  — 词
+- untuk / buat = for  — 为了
 - hadiah 礼物
-- mendengarkan musik / mendengar = listen
-- membacakan = read aloud
+- mendengarkan musik / mendengar = listen  — 听
+- membacakan = read aloud  — 朗读
 - me- / ber- (prefixes): saya berlari

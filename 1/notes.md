@@ -1,16 +1,16 @@
 ## Kelas 1
 
-- budaya (culture)
-- jalan-jalan (tour)
-- nonton film (watch film)
-- dengar musik
+- budaya (culture)  — 文化
+- jalan-jalan (tour)  — 逛逛
+- nonton film (watch film)  — 看电影
+- dengar musik  — 听音乐
 - baca buku（c 的发音比较接近"扎"）
 - ada: iya, saya ada....
 - main 玩
 - main alat musik, seperti gitar, drum
 - kadang-kadang 偶尔
-- tolong = help
-- lontong
+- tolong = help  — 帮助
+- lontong  — 米糕
 - sering 经常
 - ada vs punya / mempunyai
 - agama 宗教
@@ -18,16 +18,16 @@
 - jepang 日本
 - amerika 美国
 - eropa 欧洲
-- belum pernah = never (yet)
+- belum pernah = never (yet)  — 从未
 - bilang 说
 - yogyakarta / jogjakarta
-- mungkin = maybe
-- akhir-akhir ini = recently
-- tentang = about
+- mungkin = maybe  — 也许
+- akhir-akhir ini = recently  — 最近
+- tentang = about  — 关于
 - jadi 所以
-- juga / pun = also
+- juga / pun = also  — 也
 - sebelum 之前
-- setelah = sesudah = after
-- mengerti = understand
-- satu minggu = seminggu
-- belum tahu = don't know yet
+- setelah = sesudah = after  — 之后
+- mengerti = understand  — 理解
+- satu minggu = seminggu  — 一周
+- belum tahu = don't know yet  — 还不知道
