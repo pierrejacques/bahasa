@@ -1,12 +1,12 @@
-# Summary 1–13 · 生词本
+# Summary · 生词本
 
-汇总第 1–13 课出现的生词与短语（≤3 词），**按词根聚合**、去重。
+汇总第 1–14 课出现的生词与短语（≤3 词），**按词根聚合**、去重。
 
 **读法**
 
 - 每个词根家族：**加粗**的是词根 / 主词条，下面 `↳` 是派生词或同族词。
 - **中 / 英** 一列：以中文为主，必要时补英文；沿用笔记里已有的标注。
-- **例句**：尽量从课文 / 播客 / 课堂语境中摘录，`(L#)` 标注来自第几号目录（L11=`11-227…`，L12=`12-219…`，L13=`13-225…`）。空白表示课文中没有现成例句。
+- **例句**：尽量从课文 / 播客 / 课堂语境中摘录，`(L#)` 标注来自第几号目录（L11=`11-227…`，L12=`12-219…`，L13=`13-225…`，L14=`14-231…`）。空白表示课文中没有现成例句。
 - 语法虚词、专有名词（人名/地名/歌名）、纯缩写一般不单列。
 
 ---
@@ -19,6 +19,8 @@
 | ↳ punya / mempunyai | 拥有 | ada vs punya (L1) |
 | **adat** | 习俗；传统 | kehidupan masyarakat adat (L10) |
 | ↳ masyarakat adat | 原住民/习俗族群 | Masyarakat adat Baduy (L10) |
+| **ajak** | 邀请；约 | jangan lupa ajak aku (L14) |
+| ↳ mengajak | 邀请 | (L14) |
 | **akhir** | 末尾；结束 | — |
 | ↳ akhir-akhir ini | 最近 | (L1/L7) |
 | ↳ akhirnya | 最终 | — |
@@ -71,6 +73,8 @@
 | ↳ kata baru | 生词 | (L10–13) |
 | **bau** | 气味 | bau enak (L5) |
 | ↳ bau enak | 香 | (L5) |
+| **bayang** | 影子 | bayang (L14) |
+| ↳ membayangkan | 想象 | bisa membayangkan musik centil… (L11) |
 | **bebek** | 鸭 | telur bebek (L2) |
 | ↳ telur bebek | 鸭蛋 | (L2) |
 | **beda** | 不同；差别 | — |
@@ -104,6 +108,7 @@
 | ↳ biasanya | 通常 | (L7) |
 | ↳ biasa saja | 一般般 | (L7) |
 | **biaya** | 费用 | (L11) |
+| **bingung** | 困惑；懵 | pasti bingung banget (L14) |
 | **bosan** | 厌烦 | agak membosankan (L8) |
 | **boneka** | 玩偶；娃娃 | boneka plenger (L7) |
 | **bromo** | (布罗莫火山) | gunung bromo (L5/L8) |
@@ -121,6 +126,7 @@
 | **cairan** | 液体 | (L2) |
 | **candaan** | 玩笑 | banyak candaan (L11/L12) |
 | ↳ lelucon | 笑话 | sebuah lelucon (L11/L12) |
+| **capek** | 累 | udah capek ngajar (L14) |
 | **cari** | 找 | — |
 | ↳ cari tahu | 查明；打听 | saya cari tahu tempat wisata di bali (L8/L9) |
 | **centil** | 妖娆；爱俏(仅形容女性) | musik centil kembali terkenal (L11) |
@@ -153,6 +159,7 @@
 | **dangdut** | (印尼)当独舞曲 | dangdut Indonesia yang jedag-jedug (L11) |
 | ↳ hip-dut | hip-hop + dangdut | (L11) |
 | **daring** | 在线(= dalam jaringan) | (L2) |
+| **demo** | 示威游行 | demo di indonesia (L9/L14) |
 | **deras** | (雨)大 | hujan deras (L2) |
 | **dengar** | 听 | — |
 | ↳ mendengar(kan) | 听；聆听 | mendengarkan musik (L2) |
@@ -196,6 +203,9 @@
 | **halia** | 姜 | teh halia (L2) |
 | **hambar** | 淡而无味 | (L11/L12) |
 | ↳ teh tawar | 无糖茶 | (L11) |
+| **hasil** | 成果；结果 | (L14) |
+| ↳ menghasilkan | 产生；赚(钱) | menghasilkan uang (L14) |
+| ↳ penghasilan | 收入 | sumber penghasilan utama (L14) |
 | **hebat** | 厉害；了不起 | menganggap Chindo hebat-hebat (L6/L8) |
 | **hewan** | 动物 | binatang vs hewan (L9/L10) |
 | ↳ binatang | 动物 | binatang peliharaan (L10) |
@@ -210,7 +220,9 @@
 | ↳ kena air hujan | 淋到雨 | (L4) |
 | **hutan** | 森林 | kebakaran hutan dan lahan (L10) |
 | ↳ orang hutan | 猩猩 | (L10) |
+| **ibu kota** | 首都 | ibu kota (L9/L14) |
 | **ikut** | 跟随；参加 | — |
+| ↳ ikut acara | 参加活动 | ikut acara (L14) |
 | ↳ ikut-ikutan | 跟风 | ikut-ikutan goyang (L11) |
 | ↳ ikut pertemuan/konferensi | 参加会议 | (L7) |
 | **ilmu** | 学问；学科 | ilmu vs pengetahuan (L9) |
@@ -230,6 +242,7 @@
 | **jauh** | 远 | cukup jauh (L5) |
 | ↳ jauh sebelum | 远早于 | (L9) |
 | **jedag-jedug** | 咚呲哒(节拍拟声) | (L11) |
+| **berjuang** | 奋斗；拼搏 | berjuang (L14) |
 | **jumlah** | 数量；总数 | total populasi, jumlah (L11/L12) |
 | **kacau** | 混乱 | Pikirannya jadi kacau (L7) |
 | **kaca** | 玻璃 | terbuat dari kaca (L11/L12) |
@@ -249,6 +262,9 @@
 | **kata** | 词；说 | — |
 | ↳ katanya | 据说 | Warna biru… katanya melambangkan keadilan (L9) |
 | ↳ kata / bicara / bilang / sebut | 词/说话/说/提及 | (L4) |
+| **kawasan** | 地区；区域 | (L14) |
+| ↳ daerah / wilayah / area | 地区；区域 | wilayah = kawasan = area = daerah (L14) |
+| ↳ provinsi / kabupaten / kota | 省 / 县 / 市 | (L14) |
 | **kaya** | 富有 | kaya-kaya (L6) |
 | **keadaan** | 情况；状况 | Sekarang keadaan sudah berubah (L6) |
 | **keadilan** | 公正 | melambangkan keadilan (L9) |
@@ -267,12 +283,22 @@
 | ↳ kebutuhan medis | 医疗需求 | (L10) |
 | **kejahatan** | 罪行 | pernah melakukan kejahatan (L7/L8) |
 | ↳ kriminalitas | 犯罪率 | kriminalitas tinggi? (L7) |
+| **kembang** | 花；发展 | bangun vs kembang (L14) |
+| ↳ bunga | 花 | (L14) |
+| ↳ mengembangkan | 发展 | (L14) |
+| ↳ berkembang | 发展；成长 | (L14) |
 | **kemerdekaan** | 独立 | hari kemerdekaan (L8/L9) |
 | ↳ merdeka | 独立(自由) | sebelum Indonesia merdeka (L9) |
 | **kena** | 遭遇；碰到 | kena marah (L4) |
 | ↳ terkena | 遭受 | terkena infeksi (L10) |
 | ↳ kena pukul | 挨打 | (L4) |
+| **kenal** | 认识 | mereka belum mengenal satu sama lain (L14) |
+| ↳ berkenalan | 结识；相识 | berkenalan (L14) |
+| ↳ mengenal / mengenalkan | 认识 / 介绍 | (L14) |
+| ↳ terkenal | 著名；出名 | (L6/L14) |
 | **kental** | 浓稠 | berair vs kental (L3) |
+| **kisah** | 故事 | kisah cinta (L14) |
+| ↳ kisah cinta | 爱情故事 | (L14) |
 | **keracunan** | 中毒 | orang yang makan keracunan (L9) |
 | ↳ racun | 毒 | (L9) |
 | **keranjang** | 篮子 | mata keranjang (L8) |
@@ -297,6 +323,8 @@
 | **kriuk** | 嘎吱脆 | (L5) |
 | **kritik** | 批评 | mengkritik (L13) |
 | **kuah** | 汤(汁) | mi instan kuah (L3) |
+| **kuliner** | 美食 | Sejak kulineran di Blok M (L14) |
+| ↳ kulineran | 美食探店 | (L14) |
 | **kurang** | 缺；少 | — |
 | ↳ kurang lebih | 差不多 | (L5/L6) |
 | ↳ kekurangan | 短缺；不足 | mengalami kekurangan bahan makanan (L10) |
@@ -310,6 +338,7 @@
 | **langit** | 天空 | lihat langit dengan jelas (L11/L12) |
 | ↳ langit-langit | 天花板 | (L11/L12) |
 | **larut** | 深(夜)；溶解 | lambat / larut (L8) |
+| **latar belakang** | 背景 | latar belakang (L14) |
 | **lawan** | 对手；相反 | lawan: opposite (L13) |
 | ↳ lawan jenis | 异性 | ketertarikan kepada lawan jenis (L13) |
 | ↳ lawan kata | 反义词 | (L13) |
@@ -334,6 +363,9 @@
 | ↳ maksud / maksudnya | 意思；意图 | Maksudnya (L11) |
 | **malah** | 反而 | malah bagus (L13) |
 | **malas** | 懒 | sibuk / malas (L8) |
+| **manfaat** | 好处；用处 | (L14) |
+| ↳ bermanfaat | 有益的 | bermanfaat (L14) |
+| ↳ menyia-nyiakan（见 sia-sia） | | |
 | **masa** | 时期；时代 | masa kecil / masa lalu / masa depan (L9) |
 | ↳ zaman / jaman | 时代；年代 | jaman 90 (L9) |
 | ↳ era / periode | 时代/时期 | (L9) |
@@ -353,7 +385,6 @@
 | ↳ memandang sebelah mata | 瞧不起 | dipandang sebelah mata (L6/L8) |
 | **matang** | 熟(的) | mentah = raw, matang = cooked (L2) |
 | ↳ setengah matang | 半熟 | telur setengah matang (L2) |
-| **membayangkan** | 想象 | bisa membayangkan musik centil… (L11) |
 | **meme** | 表情包；梗图 | Om Telolet Om (L11/L12) |
 | **memang** | 的确 | memang dipandang sebelah mata (L6/L9) |
 | **menang…**（见 tangani） | | |
@@ -390,6 +421,7 @@
 | **pandang** | 看；注视 | — |
 | ↳ dipandang sebelah mata | 被轻视 | (L6/L8) |
 | ↳ pemandangan | 风景 | (L7) |
+| **panggung** | 舞台 | efek cahaya panggung doang (L14) |
 | **parkir** | 停车 | tempat parkir (L5) |
 | ↳ tempat parkir | 停车位 | (L5) |
 | **paru-paru** | 肺 | kalimantan itu paru paru dunia (L10) |
@@ -402,7 +434,9 @@
 | **pemandu** | 导游 | pemandu dan penerjemah (L8) |
 | ↳ penerjemah | 翻译(人) | (L8) |
 | ↳ supir | 司机 | sewa mobil, supir (L8) |
-| **penampilan** | 外表 | penampilan itu penting (L8) |
+| **penampilan** | 外表；演出 | penampilan itu penting (L8); penampilan (L14) |
+| ↳ tampil / tampilkan | 上台/亮相；展示 | sudah ditampilkan (L14) |
+| ↳ tampilan layar | 屏幕显示 | (L14) |
 | **penerbangan** | 航班 | tidak ada penerbangan langsung (L7/L11) |
 | ↳ penerbangan panjang | 长途飞行 | (L7) |
 | ↳ transit | 转机 | transit di timur tengah (L7) |
@@ -463,6 +497,8 @@
 | ↳ merasakan | 体验；感受 | mau merasakan budaya lokal (L8) |
 | **rasis** | 种族歧视的 | kedengaran rasis (L6) |
 | ↳ suku | 族群；部族 | tidak dibatasi suku dan agama (L6) |
+| **rencana** | 计划 | (L14) |
+| ↳ jadwal | 日程；行程 | (L14) |
 | **rendah** | 低 | — |
 | ↳ merendahkan | 贬低 | suka merendahkan dari penampilan (L6/L8) |
 | ↳ direndahkan | 被贬低 | (L6) |
@@ -478,6 +514,8 @@
 | **saluran** | 管道；频道 | saluran pernapasan (L10) |
 | ↳ terowongan | 隧道 | (L10) |
 | **sambal** | 辣椒酱 | campur sambal (L11/L12) |
+| **sambung** | 连接 | sambung -- nyambung (L14) |
+| ↳ nyambung | 接得上；搭调 | nggak nyambung (L14) |
 | **saran** | 建议 | kamu ada saran? (L8) |
 | ↳ menyarankan | 建议(动词) | kamu menyarankan tempat apa? (L8) |
 | **sarapan** | 早餐 | saat sarapan (L2/L3) |
@@ -498,6 +536,7 @@
 | ↳ tersembunyi | 隐藏的 | kejadian yang tersembunyi (L7) |
 | ↳ diam-diam | 偷偷地 | mencari informasi secara diam-diam (L8) |
 | **sentuh** | 触摸 | sentuh = touch (L4) |
+| ↳ tersentuh | 被触动；感动 | tersentuh (L14) |
 | **sengaja** | 故意 | maaf, saya tidak sengaja (L10) |
 | ↳ kesengajaan | 蓄意 | ada kesengajaan dari pihak tertentu (L10) |
 | **sering** | 经常 | (L1/L2) |
@@ -507,12 +546,18 @@
 | **sewa** | 租 | sewa mobil (L4/L8) |
 | ↳ menyewa / nyewa | 租(动词) | (L4) |
 | **si** | (指人小词) | si cewek (L13) |
+| **sia-sia** | 白费；徒劳 | ga sia-sia hari ini saya ke sana (L14) |
+| ↳ menyia-nyiakan | 浪费 | (L14) |
+| ↳ percuma | 白白；徒劳 | Percuma, sia-sia (L7) |
 | **sibuk** | 忙 | sibuk / malas (L8/L10) |
 | **sifat** | 性格；特性 | sifat yang genit (L7/L11) |
+| **silau** | 刺眼；晃眼 | sampai mataku silau (L14) |
 | **sinetron** | 肥皂剧 | (L9) |
 | **sinonim** | 近义词 | (L13) |
 | **skala** | 规模 | skala: scale (L10) |
 | **sopan** | 有礼貌 | (L11) |
+| **sorot** | 聚光；照射 | (L14) |
+| ↳ menyorot | 照射 | (L14) |
 | **suasana** | 气氛 | (L4) |
 | **suku** | 族群 | → 见 **rasis** | (L6) |
 | **sulit / susah** | 难 | susah dapat sinyal (L6/L12) |
@@ -550,6 +595,13 @@
 | ↳ tetap saja | 尽管如此 | (L13) |
 | **tinggal** | 住；剩 | tempat tinggal (L6) |
 | ↳ tinggal bersama | 同住 | (L8) |
+| **temu** | 相遇 | ketemu (L14) |
+| ↳ ketemu | 碰面；遇见 | (L14) |
+| ↳ bertemu | 见面 | (L14) |
+| **tip** | 小费 | tip di indonesia (L9/L14) |
+| **tol** | 收费高速 | jalan tol (L14) |
+| ↳ jalan tol | 高速公路 | (L14) |
+| ↳ masuk tol | 上高速 | (L14) |
 | **topik** | 主题 | (L3) |
 | **tradisional** | 传统的 | (L2/L11) |
 | **tujuan** | 目标 | mencapai tujuan yang sama (L8) |
@@ -559,11 +611,14 @@
 | **unik** | 独特 | unik: unique (L11) |
 | **untung** | 幸运；利润 | — |
 | ↳ untungnya | 幸好 | (L7) |
+| **urus** | 处理；事务 | urusan belakangan (L14) |
+| ↳ urusan | 事务；事情 | (L14) |
 | **usus** | 肠 | (L5) |
 | **utama** | 主要 | alasan utama (L9) |
 | **viral** | 爆红 | video yang viral di internet (L13) |
 | **wajar** | 正常；合理 | perilaku cowoknya masih wajar (L6/L13) |
 | **wisata** | 旅游 | tempat wisata (L3/L8) |
+| ↳ berwisata | 去旅游 | (L14) |
 | ↳ tempat wisata | 旅游景点 | (L8) |
 | ↳ desa wisata | 旅游村 | (L8) |
 | **yakin** | 确信 | tidak yakin (L9) |

@@ -1,0 +1,166 @@
+## Kata baru & pertanyaan
+
+- akhir pekan 周末
+- sambil kerjain podcast
+- Senin sampai Jumat udah capek ngajar
+- ngapa-ngapain ?  — 干嘛；做什么
+  - Ngapain orang-orang ini
+- Mainnya agak jauh sedikit ke Jakarta Pusat
+  - 这里的 main 是动词
+  - permainan  — 游戏
+- bahan  — 材料
+  - kerjain bahan podcast
+- Sejak kulineran di Blok M
+  - kulineran  — 美食探店
+- ketemu  — 遇见；碰面
+  - vs bertemu
+- berkenalan  — 结识；认识
+  - terkenal 著名
+  - mengenalan  — 认识；介绍
+  - mereka belum mengenal satu sama lain
+- ikut 参加
+- pekerjaan sampingan  — 副业
+- sumber penghasilan utama  — 主要收入来源
+- 花 / 起床 / 发展
+  - bangun  — 起床；建造
+  - bunga  — 花
+  - kembang  — 花；发展
+- menghasilkan uang  — 赚钱
+- bayang  — 影子；想象
+- urusan belakangan  — 事情之后再说
+  - urusan  — 事务；事情
+  - hal  — 事情
+  - barang  — 物品
+  - bagasi  — 行李
+  - bahan  — 材料
+- bermanfaat  — 有益的
+  - manfaat  — 好处；用处
+- sia-sia 没有白费
+  - compare 语气词 sia 没有关系
+  - menyia-nyiakan 动词
+- jalan-jalan di alam  — 在大自然里游玩
+- rencana  — 计划
+  - jadwal 比较小
+- kawasan  — 地区；区域
+  - daerah  — 地区
+  - wilayah  — 地区；区域
+  - area  — 区域
+  - 都差不多
+- berwisata  — 旅游
+- Banyuwangi 外南梦
+- jangan lupa ajak aku
+  - ajak 邀请/约
+- nggak sengaja dengar obralan kami
+  - sengaja 故意
+- pasti bingung banget
+  - bingung  — 困惑；懵
+- nggak nyambung  — 接不上；不搭调
+  - 对不上话，鸡同鸭讲
+  - tidak apa-apa -> nggak papa  — 没关系
+
+- penampilan 演出
+  - pertunjukan 都是
+
+- sorot  — 照射；聚光
+  - menyorot 照
+- sampai mataku silau
+  - silau  — 刺眼；晃眼
+- efek cahaya panggung doang
+  - panggung doang  — 只是舞台罢了
+  - panggung 舞台 stage
+  - doang 语气词
+
+- budaya Indonesianya sangat kental
+  - kental 的用法，浓
+- kisah cinta  — 爱情故事
+  - kisah 故事
+- latar balakang 背景，一般都是一起用
+- berjuang  — 奋斗；拼搏
+- tersentuh  — 被触动；感动
+  - sentuh: touch，有意
+  - kena 无意，遭遇，暂按
+  - kena marah  — 挨骂
+  - kena pukul  — 挨打
+- sudah ditampilkan ...
+  - tampil 上台/亮相
+  - tampilkan展示
+    - penampilan 外貌
+    - tampilan layar：screen display  — 屏幕显示
+  - penampilan 演出
+  - tunjuk 指（指人/指路）
+
+- jalan tol  — 高速公路
+- jabodetabek
+
+## Lain
+
+- tipping di indonesia  — 在印尼给小费
+- kebakaran  — 火灾
+- demo  — 示威
+
+## Jalan jalan
+
+- jalan malioboro
+- kain batik  — 蜡染布
+- gunung merapi
+
+## Chat
+
+- akhir minggu - akhir pekan  — 周末
+- 周中
+- berkenalan  — 结识
+- mengenal  — 认识
+- menghentikan dia untuk merekam
+- jakarta utara  — 北雅加达
+- sebentar  — 一会儿
+- akhir-akhir ini  — 最近
+- bogor
+- jabodetabek
+- masuk tol  — 上高速
+- jalan tol  — 高速公路
+- jakarta
+- bogor
+- depok
+- tangerang
+- bekasi
+- pasti 肯定
+- banyak orang China  — 很多华人
+- jakarta utara  — 北雅加达
+- pluit--- muara karang -- pik
+- karena lebih dekat ke bandara
+- ibu kota  — 首都
+- permainan  — 游戏
+- mereka baru berekenalan hari ini
+- mereka belum mengenal satu sama lain
+- apa-apa lagi  — 还有别的
+- sejak = 自从
+- kuliner  — 美食
+- ikut acara  — 参加活动
+- ikut aku ke sini
+- pekerjaan utama  — 主业
+- mengembangkan  — 发展
+- bangun vs kembang
+- bunga  — 花
+- ga sia-sia hari ini saya ke sana
+- menyia-nyiakan  — 浪费
+- rencana = 计划
+- jadwal = 行程
+- wilayah = kawasan = area = daerah  — 地区；区域
+- provinsi = province  — 省
+- kabupaten  — 县
+- kota  — 城市
+- sambung  — 连接
+- sambung -- nyambung
+- nggak apa-apa  — 没关系
+- sorot-- menyorot
+- pangguung = 舞台
+- doang --- dong
+- kena marah  — 挨骂
+- kena pukul  — 挨打
+- penampilan  — 演出；外貌
+- tampilan layar  — 屏幕显示
+- suku  — 族群
+- kain batik  — 蜡染布
+- malioboro
+- gunung merapi
+- gua jomblang
